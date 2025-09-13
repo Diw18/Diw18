@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Diwakar Pathak  
 
 🎯 **Senior Product Manager | Data, AI & Analytics | GenAI Evangelist | Cybersecurity**  
-📍 Bangalore, India | 🎓 IIT Bombay | 🌐 22+ years in IT (Telecom, BFSI, Manufacturing, Automotive)  
+📍 Bangalore, India | 🎓 IIT Bombay | 🌐 20+ years in IT (Telecom, BFSI, Manufacturing, Automotive)  
 
 ---
 
