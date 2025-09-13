@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Diwakar Pathak  
 
-🎯 **Senior Product Manager | Data, AI & Analytics | GenAI Evangelist**  
+🎯 **Senior Product Manager | Data, AI & Analytics | GenAI Evangelist | Cybersecurity**  
 📍 Bangalore, India | 🎓 IIT Bombay | 🌐 22+ years in IT (Telecom, BFSI, Manufacturing, Automotive)  
 
 ---
 
 ## 🚀 About Me  
-I’m a technology leader and product strategist with **22+ years of global experience**, including 8 years in the USA.  
-Currently working at **Ericsson** as **Head of IT Security Assurance Tools**, I combine **deep technical fluency in AI/GenAI** with a strong track record in **enterprise-scale data & security platforms**.  
+I’m a technology leader and product strategist with **20+ years of global experience**, including 8 years in the USA.  
+Currently working at **Ericsson**, I combine **deep technical fluency in AI/GenAI** with a strong track record in **enterprise-scale data & security platforms**.  
 
 🔹 I’m passionate about **demystifying GenAI** — from LLM internals and RAG systems to Agentic AI.  
 🔹 I blend **transformer-math insights** with **practical enterprise adoption** strategies.  
@@ -34,13 +34,13 @@ Currently working at **Ericsson** as **Head of IT Security Assurance Tools**, I 
 ## 🌱 Current Focus
 - Writing a **book** on AI analogies, mathematics, and pathways to AGI  
 - Designing **RAG & Agentic AI frameworks** for enterprise security and analytics  
-- Experimenting with **Snowflake Cortex, LangChain, and CrewAI** for scalable AI solutions  
+- Experimenting with **Snowflake Cortex, LangChain, Langflow and CrewAI** for scalable AI solutions  
 
 ---
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/diwakarpathak)  
-- 🎙️ Speaker @ industry events (DAICON, Zinnov Confluence, Ericsson GenAI Talks, IIM Nagpur EMBA)  
+- 🎙️ Speaker @ industry events (Zyoin GCC Workplace Awards, Ericsson GenAI Talks, IIM Nagpur EMBA, IIT Bombay)  
 - 📝 Exploring AI research & writing  
 
 ---
